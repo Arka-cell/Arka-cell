@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arka-cell&count_private=true&show_icons=true&theme=synthwave)
+![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arka-cell&count_private=true&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arka-cell&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
